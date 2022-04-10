@@ -1,2 +1,2 @@
 # fideliza-blockchain
-A proof of work for blockchain loyalty project
+A proof of concept for blockchain loyalty project
