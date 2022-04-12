@@ -11,7 +11,7 @@ web3.eth.defaultAccount = web3.eth.accounts[0]
 # Path to the compiled contract JSON file
 compiled_contract_path = 'build/contracts/Token.json'
 # Deployed contract address (see `migrate` command output: `contract address`)
-deployed_contract_address = '0xFAF258a09000652BE0507cE815e2dAB3FcDdD602'
+deployed_contract_address = '0xa772c7669A321e411B3Cca0D46F9b40f137aFC05'
 
 with open(compiled_contract_path) as file:
     contract_json = json.load(file)  # load contract info as JSON
